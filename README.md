@@ -1,11 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=180&section=header&text=Yonas%20Yifter&fontSize=48&fontColor=00d4ff&fontAlignY=38&desc=AI%20•%20IoT%20•%20Cloud%20•%20Security&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+ML+%26+Deep+Learning+Engineer;🌐+IoT+Systems+%26+Edge+AI+Builder;🔐+Cloud+%26+Network+Security;🚀+FastAPI+%7C+Docker+%7C+AWS" alt="Typing SVG"/>
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+ML+%26+Deep+Learning+Engineer;🌐+IoT+Systems+%26+Edge+AI+Builder;🔐+Cloud+%26+Network+Security;🚀+FastAPI+%7C+Docker+%7C+AWS" alt="Typing SVG"/>
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-yonasyifter-181717?style=for-the-badge&logo=github)](https://github.com/yonasyifter)
