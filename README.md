@@ -1,8 +1,9 @@
 <!-- Header Banner — tested & working on GitHub -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yonas%20Yifter%20Yihdego&fontSize=42&fontColor=fff&fontAlignY=38&desc=Network%20%26%20Security%20Engineer%20%7C%20MSc%20Telecom%20%40%20UniCal&descAlignY=58&descColor=ccc)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yonas%20Yifter&fontSize=40" />
+</p>
 </div>
 
 <!-- Typing SVG — use shields.io static badge as fallback if this fails -->
