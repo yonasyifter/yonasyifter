@@ -33,14 +33,14 @@
 ```python
 class YonasYifter:
     name       = "Yonas Yifter Yihdego"
-    role       = "Network & Security Engineer"
+    role       = "MSc. in TeleCommunication Engineering"
     education  = {
         "MSc": "Telecommunication Engineering — UniCal Italy (2025–Present)",
         "track": "Remote Sensing · Cloud Computing · Networking · 5G",
-        "BSc": "Electrical & Computer Engineering — Mekelle Institute of Technology"
+        "BSc": "Electronics & Communication Engineering — Mekelle Institute of Technology"
     }
     certs      = ["HCIP-Network Automation Developer", "CCNA", "NCWSA"]
-    experience = "5+ years — Banking & Academic Institutions — East Africa"
+    experience = "4+ years — Banking & Academic Institutions — East Africa"
     focus      = ["SDN", "IoT", "ML for Telecom", "Cybersecurity", "Edge AI"]
     location   = "Rende, Cosenza, Italy 🇮🇹"
     available  = True   # open to work & research collaboration ✅
@@ -54,8 +54,7 @@ class YonasYifter:
 
 | 🏛️ Degree | 🏫 Institution | 📅 |
 |---|---|---|
-| **MSc Telecommunication Engineering** | Università della Calabria — DIMES | 2025 – Present |
-| *Smart Sensing · Cloud · Networking* | | |
+| **MSc Telecommunication Engineering** *Smart Sensing · Cloud · Networking* | Università della Calabria — DIMES | 2025 – Present |
 | **BSc Electrical & Computer Engineering** | Mekelle Institute of Technology, Ethiopia | Graduated |
 
 <br/>
