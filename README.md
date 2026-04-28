@@ -160,8 +160,8 @@ class YonasYifter:
 <div align="center">
 
 ![Amharic](https://img.shields.io/badge/Amharic-Native-4CAF50?style=flat-square)
-![English](https://img.shields.io/badge/English-Fluent-2196F3?style=flat-square)
-![Italian](https://img.shields.io/badge/Italian-Intermediate-FF9800?style=flat-square)
+![English](https://img.shields.io/badge/English-Advanced-2196F3?style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-Begginer-FF9800?style=flat-square)
 
 </div>
 
