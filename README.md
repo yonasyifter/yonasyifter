@@ -140,7 +140,7 @@ class YonasYifter:
 
 ---
 
-## 🔬 Research @ UniCal DIMES
+## 🔬 My Research Interest ----> Open for Work
 
 ```
 📡  5G & Beyond              → Next-gen wireless & heterogeneous network architecture
